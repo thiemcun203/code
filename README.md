@@ -1,1 +1,1 @@
-# HERE is all my exercise during study time
+# HERE is all my exercises during study time
