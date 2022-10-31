@@ -1,0 +1,2 @@
+def long():
+    print('long')

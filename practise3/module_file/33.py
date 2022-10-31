@@ -1,0 +1,1 @@
+print(len(open(filepath, 'r').read().split()))

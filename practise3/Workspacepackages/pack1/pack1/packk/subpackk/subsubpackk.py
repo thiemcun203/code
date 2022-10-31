@@ -1,0 +1,2 @@
+def thiem():
+    print("thiemcun")

@@ -1,0 +1,5 @@
+f = open('workfile', 'w+')
+f.write('0123456789abcdef')
+print(f.seek(0))
+print(f.read(4))
+print(f.tell())
